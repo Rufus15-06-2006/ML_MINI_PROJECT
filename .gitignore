@@ -1,0 +1,10 @@
+desc2026.xml
+desc2026/
+matrix_mesh.npz
+trials.json
+*.zip
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
